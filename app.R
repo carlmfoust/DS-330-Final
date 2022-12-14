@@ -9,7 +9,7 @@ library(reactable)
 library(colorspace)
 library(hrbrthemes)
 
-csvPath = ''
+csvPath = 'SavantPitching2022.csv'
 
 SavantPitching2022 = read.csv(csvPath) 
 
